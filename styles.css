@@ -20,3 +20,13 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+.banner{
+    background: var(--azul-degrade);
+    color:var(--branco);
+    text-align:center;
+    padding:2.5em 2em;
+}
+.banner__titulo{
+    font-size:18px;
+    font-weight:700;
+}
